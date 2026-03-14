@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "beresol-method",
+      "description": "A structured 5-phase, 13-step vibe-coding methodology for building projects from specification through implementation. Interactive walkthrough, progress tracking, and validation agent.",
+      "version": "1.0.0",
+      "homepage": "https://github.com/Beresol-BV/beresol-method-plugin",
+      "keywords": ["methodology", "project-setup", "scaffolding", "vibe-coding", "workflow"],
+      "source": "."
+    }
+  ]
+}
