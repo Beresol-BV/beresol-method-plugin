@@ -5,7 +5,7 @@ description: The Beresol Method — a structured 5-phase, 13-step vibe-coding me
 
 # The Beresol Method
 
-A structured approach to vibe-coding developed by Victor Sole Ferioli (Beresol). Front-loads all decision-making into specification and design so that implementation with AI coding assistants is fast and accurate.
+A structured approach to vibe-coding developed by Victor Solé Ferioli (Beresol). Front-loads all decision-making into specification and design so that implementation with AI coding assistants is fast and accurate.
 
 ## Core Philosophy
 

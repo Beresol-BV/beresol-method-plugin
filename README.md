@@ -92,7 +92,7 @@ Progress is stored in `.claude/beresol-method.local.md` within each project. Thi
 
 ## Author
 
-Victor Sole Ferioli — [Beresol](https://beresol.eu)
+Victor Solé Ferioli — [Beresol](https://beresol.eu)
 
 ## Licence
 
