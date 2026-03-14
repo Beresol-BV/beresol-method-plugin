@@ -1,0 +1,13 @@
+{
+  "name": "beresol-method",
+  "version": "1.0.0",
+  "description": "A structured 5-phase, 13-step vibe-coding methodology for building projects from specification through implementation. Guides users interactively through each step, tracks progress, and validates completeness.",
+  "author": {
+    "name": "Victor Sole Ferioli",
+    "email": "hello@beresol.eu",
+    "url": "https://beresol.eu"
+  },
+  "repository": "https://github.com/beresol/beresol-method-plugin",
+  "license": "MIT",
+  "keywords": ["methodology", "project-setup", "scaffolding", "vibe-coding", "workflow"]
+}
